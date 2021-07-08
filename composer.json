@@ -1,0 +1,21 @@
+{
+    "name": "lenmot/sundy-test",
+    "description": "a test package",
+    "type": "library",
+    "require": {
+        "php": "7.4"
+    },
+    "license": "mit",
+    "autoload": {
+        "psr-4": {
+            "Lenmot\\SundyTest\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sundy",
+            "email": "4375640@qq.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
