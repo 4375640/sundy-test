@@ -3,7 +3,7 @@
     "description": "a test package",
     "type": "library",
     "require": {
-        "php": "7.4"
+        "php": ">=7.4"
     },
     "license": "mit",
     "autoload": {
